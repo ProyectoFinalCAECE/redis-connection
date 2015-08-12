@@ -1,0 +1,16 @@
+{
+  "name": "redis-connection",
+  "version": "1.0.0",
+  "private": true,
+  "description": "redis connection example",
+  "main": "index.js",
+  "author": "jsaucedo",
+  "dependencies": {
+      "express": "^4.7.1",
+      "ioredis":"1.7.3"
+  },
+  "devDependencies": {
+   "mocha":"2.2.5",
+   "should": "7.0.3"
+ }
+}
